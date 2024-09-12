@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabaasgarian" alt="sabaasgarian" /></a> </p>
 
-- 🌱 I’m currently learning **html,css,bootstrap,tailwind,JavaScript**
+- 🌱 I’m currently learning **html,css,bootstrap,tailwind,JavaScript,React,Nextjs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SabaAsgarian](https://github.com/SabaAsgarian)
 
-- 💬 Ask me about **html,css,bootstrap,tailwind,javascript**
+- 💬 Ask me about **html,css,bootstrap,tailwind,javascript,React,Nextjs**
 
 - 📫 How to reach me **computer.sabaa@gmail.com**
 
